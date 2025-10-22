@@ -3,6 +3,10 @@
 AI-Driven Robotic Grasping Simulation Application
 PyQt6 GUI + PyBullet Physics Simulation
 Single-file complete application for 6-DOF pick-and-place task
+
+Author: Sherin Joseph Roy
+Email: sherin.joseph2217@gmail.com
+Version: 1.0 (Basic)
 """
 
 import sys

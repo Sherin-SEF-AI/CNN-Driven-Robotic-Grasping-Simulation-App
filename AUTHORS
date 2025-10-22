@@ -1,0 +1,55 @@
+# Authors and Contributors
+
+## Project Author
+
+**Sherin Joseph Roy**
+- Email: sherin.joseph2217@gmail.com
+- GitHub: https://github.com/Sherin-SEF-AI
+- Role: Creator and Lead Developer
+
+## Project Information
+
+**Project Name**: AI-Driven Robotic Grasping Simulation Application
+**Repository**: CNN-Driven-Robotic-Grasping-Simulation-App
+**License**: MIT License
+
+## Version History
+
+- **v1.0 (Basic)** - Initial release with core functionality
+  - Single-file implementation
+  - Basic PyQt6 GUI
+  - Single grasp prediction
+  - 5-step trajectory execution
+
+- **v2.0 (Advanced)** - Feature-rich professional version
+  - Multiple grasp candidates with confidence scoring
+  - Trajectory visualization and preview
+  - Force/torque sensing
+  - Multiple object types
+  - Advanced camera system
+  - Collision detection
+  - Recording and playback
+  - Performance metrics
+  - Import/export system
+  - 5-tab professional GUI
+
+## Acknowledgments
+
+This project uses:
+- **PyQt6** - GUI framework
+- **PyBullet** - Physics simulation engine
+- **NumPy** - Numerical computation
+- **Pillow** - Image processing
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to this project, please:
+1. Fork the repository
+2. Create a feature branch
+3. Submit a pull request
+
+For major changes, please open an issue first to discuss what you would like to change.
+
+---
+
+© 2025 Sherin Joseph Roy. All rights reserved.

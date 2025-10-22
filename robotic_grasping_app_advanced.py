@@ -2,6 +2,11 @@
 """
 Advanced AI-Driven Robotic Grasping Simulation Application
 PyQt6 GUI + PyBullet Physics Simulation
+
+Author: Sherin Joseph Roy
+Email: sherin.joseph2217@gmail.com
+Version: 2.0 (Advanced)
+
 Enhanced with multiple features:
 - Multiple grasp candidates with confidence scoring
 - Trajectory visualization and preview
